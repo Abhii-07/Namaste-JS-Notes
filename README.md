@@ -54,27 +54,6 @@
 
 ### [Episode 19 : map, filter & reduce](./notes/lecture-19.md)
 
-<br>
-## 👤 Author
- **Credit Goes To : Abhijeet Hiwale
-  
-  **Abhijeet Hiwale  (Abhijeet r417@gmail.com)** <br>
-  **Surjesh Yadav (surjeshom@gmail.com)**
-
-
-- linkedin: [SurjeshYadav](https://linkedin.com/in/surjeshyadav/)
-- linkedin: [Abhijeet Hiwale](https://linkedin.com/in/Abhijeet 722/)
-
-<br>
-
-## 🤝 Contribution Guidelines
-
-- Fork the repository to your own Github account
-- Clone the project to your machine, checkout to new branch & install dependencies using _yarn_
-- Commit changes to your branch only using **npm run commit** script
-- Don't use _git commit -m "commit message"_ to commit your changes
-- Push changes to your fork
-- Open a PR in my repository by providing all info and context of your PR.
 
 ## 🙏 Special Thanks
 
